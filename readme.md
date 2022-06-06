@@ -2,7 +2,7 @@
 
 ## Live Site Link:----> https://assignment-12-9b20c.web.app/
 
-## Github link :------> https://github.com/programming-hero-web-course1/manufacturer-website-server-side-mahesh987654321
+
 
 - For server side I use Nodejs,Express js & Mongodb
 - Link with Mongodb database
